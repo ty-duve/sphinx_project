@@ -1,83 +1,125 @@
-This Is My Sample Chapter
-=========================
+London, England
+===============
 
-Ok, here's my sample chapter.
+Visiting London? Want to know more about London?
 
-This is another paragraph because of the blank line.
+Here's a few things to know before you go.
 
-This
-is
-all
-one paragraph. Because there
-is
-no blank
-line.
 
-Here I use *one* pair of asterisks for italics.
+Queen Elizabeth II
+------------------
 
-I can use **two** pairs of asterisks for bold.
+Queen Elizabeth II serves as the main point of national identity in the United 
+Kingdom. She took the throne in 1952 at age 25 following the death of her 
+father, George VI. She began her reign as one of the youngest monarchs ever and 
+has outlasted almost every other world leader. 
 
-Like lists?
+.. figure:: queen_elizabeth_25.png
+	:width: 50%
 
-* Start a list with an asterisk.
-* Each item gets one.
-* Most common mistake, if you need two lines
-  don't forget to indent the second line.
+	Queen Elizabeth II, age 25.
 
-  * You can have a list in a list too.
-  * Don't forget a blank line between the lists
 
-* Done with lists.
+After 67 years of leadership, the queen is now 92 and has redefined what it 
+means to be a monarch. 
 
-Heading Level 1
----------------
-You can create headings with - and = and ~ underlines.
+Once the queen passes and is no longer able to rule, there is a long list, in 
+order, of people who would be eligible to take the throne. 
 
-You can create a link by doing `Simpson`_ something like this.
+The top 6 eligible suiters for the throne:
 
-.. _Simpson: http://simpson.edu
+==================  ==================================================
+Name                Relation to the throne
+==================  ==================================================
+Prince Charles      Eldest child of Queen ELizabeth II
+Prince Williams     Eldest son of Prince Charles and Princess Diana
+Prince George		Eldest son of Prince William and Catherine
+Princess Charlotte  Daughter of PRince William and Catherine
+Prince Louis        Third child of Prince William and Catherine 
+Prince Harry		Second son of Prince Charles and Princess Diana
+==================  ==================================================
 
-You can do sample code easily:
+For more information about all things royal, visit the `Royal Website`_.
 
-.. code-block:: python
-    :linenos:
-    :caption: Sample Code
+.. _Royal Website: https://www.royal.uk/
 
-    # Sample program
-    print("Hello")
+Tourist Attractions
+-------------------
 
-You can make ``monospaced text`` if you surround them with two back-ticks. Back-ticks are the
-weird quote thing in the upper-left on your keyboard.
+Anyone could spend *months* traveling around London and visiting all of the 
+castles and attractions and immersing yourself in British history and culture.  
 
-You can include an image by:
+Here are a few of the most popular tourist attractions:
 
-.. image:: my_image.png
-    :width: 50%
+.. Figure:: bigben.png
+	:width: 50%
 
-Or a labeled image:
+	Tower Clock
 
-.. figure:: my_image.png
-    :width: 50%
+* Tower Clock A.K.A **Big Ben**
+	
+	* Clock was designed by Edmund Beckett Dension.
+	* Famous for its *colossal* bell, measuring out at 7 feet tall, 9 feet wide
+	  and weighing 15.1 tons. 
+	* There is an ongoing debate over why the Tower Clock was given its nick-
+	  name, **Big Ben**. 
+	* Some believe it was named after the English Heavyweight Champion, Benjamin
+	  Caunt.
+	* Others believe it was named after Sir Benjamin Hall who oversaw the 
+	  installation of the Bell. 
 
-    This is my image caption.
+.. Figure:: buckingham.png
+	:width: 50%
 
-Sample Table
-------------
+	Buckingham Palace
 
-This is a sample table
+* **Buckingham Palace**
+    
+    * The palace got it's name when it was built in 1705 for John Sheffield,
+      Duke of Buckingham.
+    * In 1762, it was bought by George III for his wife, Queen Charlotte.
+    * Now, the palace is known as the Queens house. 
+    * The Queen is currently hiring a new `gardener`_ at **Buckingham Palace**.
+    
+    .. _gardener: https://www.birminghammail.co.uk/news/uk-news/queen-hiring-new-gardener-buckingham-16154435
 
-============ =================
-Fruit        Review
-============ =================
-Apple        3 stars
-Pomegranite  5 stars
-Grapes       3 stars
-Pears        4 stars
-Orange       2 stars
-Cherries     1 star
-============ =================
+.. Figure:: trafalgar_square.jpg
+	:width: 50%
 
-There are several ways of doing sample tables. The most frequent issue
-that people have when making tables is mixing tabs and spaces. In Sublime,
-if you select the text of a table, you can see tabs look differently than
-spaces. Always use spaces, never tabs.
+	Trafalgar Square
+
+* **Trafalgar Square**
+
+	* This is the most popular square in London and is located in Westminster.
+	* The plaza is named for Lord Nelson's naval victory in the Battle of
+	  Trafalgar in 1805.
+	* In the month of December, people gather around a giant tree, donated by 
+	  Norway, and sing Christmas carols. 
+
+
+Public Transportation
+---------------------
+
+No need to rent a car when traveling in/through London.The public 
+transportation system in London is *fantastic*. There isn't anywhere 
+you can't go, and for a good price. 
+
+Almost everyone uses some form of public transportation in London because it is
+easy and cheap.
+
+.. Image:: public_transportation.jpg
+	:width: 50%
+
+
+
+* Underground A.K.A "The Tube"
+* Overground
+* Docklands Light Railway
+* Rail services
+* Bus
+* Tram
+* Emirates Air lines
+* River boat
+* Taxi
+* Bicycles 
+* Walking  

@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'My Test Project'
+project = 'London, England'
 copyright = '2019, Ty'
 author = 'Ty'
 
